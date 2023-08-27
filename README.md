@@ -17,9 +17,13 @@ Here is some Fun fact:
 ## Features
 
 - Feature 1: [What is Declaration?]
+  
 ![Alt Sec1](sec1.png)
+
 - Feature 2: [How does it affects you?]
+  
 - Feature 3: [NCPG clarifies!]
+
 ![Alt Sec1](sec1.png)
 
 ## Getting Started
