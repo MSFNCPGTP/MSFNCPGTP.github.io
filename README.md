@@ -22,11 +22,11 @@ Here is some Fun fact:
 
 - Feature 2: [How does it affects you?]
 
-![Screenshot 2](screenshots/sec3.png)
+![Alt Sec2](sec3.png)
 
 - Feature 3: [NCPG clarifies!]
 
-![Screenshot 3](screenshots/sec2.png)
+![Screenshot 2](screenshots/sec2.png)
 
 ## Getting Started
 
