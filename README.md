@@ -6,13 +6,14 @@ Welcome to NCPG awesome Microsite! This site does something really cool and amaz
 
 This site aims to solve [your confusion] by [explaining why you are in this situation]. It's built using [Github], and it's designed to [unique, fun and informative].
 
+![Alt comic](comicstrip.png)
+
 ## Declaration - The First Phase
 
 ![Alt NCPG Logo](NCPG.png)
 
 Here is some Fun fact:
 
-![Alt comic](comicstrip.png)
 ![Alt comic](comicstrip2.png)
 
 ## Features
