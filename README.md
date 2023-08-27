@@ -13,7 +13,6 @@ This site aims to solve [your confusion] by [explaining why you are in this situ
 Here is some Fun fact:
 
 ![Alt comic](comic strip2.png)
-*Caption: homepage.*
 
 ## Features
 
