@@ -1,17 +1,16 @@
-# My Awesome Project
+# NCPG Microsite
 
-Welcome to my awesome project! This project does something really cool and amazing.
+Welcome to NCPG awesome Microsite! This site does something really cool and amazing.
 
 ## Description
 
-This project aims to solve [specific problem] by [briefly explain how]. It's built using [technology stack], and it's designed to [unique features or goals].
+This site aims to solve [your confusion] by [explaining why you are in this situation]. It's built using [Github], and it's designed to [unique, fun and informative].
 
-## Screenshots
-
-Here are some screenshots of the project:
+## Declaration - The First Phase
 
 ![Alt NCPG Logo](NCPG.png)
-*Caption: logo.*
+
+Here is some Fun fact:
 
 ![Alt comic](comic strip2.png)
 *Caption: homepage.*
