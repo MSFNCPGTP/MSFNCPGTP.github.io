@@ -12,7 +12,7 @@ This site aims to solve [your confusion] by [explaining why you are in this situ
 
 Here is some Fun fact:
 
-![Alt comic](comic strip2.png)
+![Alt comic](comicstrip2.png)
 
 ## Features
 
