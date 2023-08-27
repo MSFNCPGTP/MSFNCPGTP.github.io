@@ -20,7 +20,7 @@ Here is some Fun fact:
   
 ![Alt Sec1](sec1.png)
 
-- Feature 2: [How does it affects you?]
+- Feature 2: [How does it affect you?]
 
 ![Alt Sec2](sec3.png)
 
