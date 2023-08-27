@@ -21,25 +21,24 @@ Here is some Fun fact:
 ![Screenshot 1](screenshots/sec1.png)
 
 - Feature 2: [How does it affects you?]
-  
+
+![Screenshot 2](screenshots/sec3.png)
+
 - Feature 3: [NCPG clarifies!]
 
-![Screenshot 2](screenshots/sec1.png)
+![Screenshot 3](screenshots/sec2.png)
 
 ## Getting Started
 
-To get started with the project, follow these steps:
+To get started with the process, understand these steps:
 
-1. Clone this repository.
-2. Run `npm install` to install the dependencies.
-3. Run `npm start` to start the development server.
+![Screenshot 4](screenshots/process.png)
 
-## Usage
+## Notice
 
-Here's how you can use the project:
+Make sure you do not miss this!:
 
-1. Open the application.
-2. [Provide step-by-step instructions on how to use the app.]
+![Screenshot 5](screenshots/notice.png)
 
 ## Contributions
 
