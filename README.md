@@ -1,5 +1,6 @@
 # NCPG Microsite
 
+![Alt NCPG Logo](NCPG.png)
 Welcome to NCPG awesome Microsite! This site does something really cool and amazing.
 
 ## Description
@@ -9,8 +10,6 @@ This site aims to solve [your confusion] by [explaining why you are in this situ
 ![Alt comic](comicstrip.png)
 
 ## Declaration - The First Phase
-
-![Alt NCPG Logo](NCPG.png)
 
 Here is some Fun fact:
 
