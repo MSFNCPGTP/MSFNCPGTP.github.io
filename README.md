@@ -18,7 +18,7 @@ Here is some Fun fact:
 
 - Feature 1: [What is Declaration?]
   
-![Screenshot 1](screenshots/sec1.png)
+![Alt Sec1](sec1.png)
 
 - Feature 2: [How does it affects you?]
 
@@ -26,7 +26,7 @@ Here is some Fun fact:
 
 - Feature 3: [NCPG clarifies!]
 
-![Screenshot 2](screenshots/sec2.png)
+![Alt Sec3](sec2.png)
 
 ## Getting Started
 
