@@ -32,13 +32,13 @@ Here is some Fun fact:
 
 To get started with the process, understand these steps:
 
-![Screenshot 4](screenshots/process.png)
+![Alt Process](process.png)
 
 ## Notice
 
 Make sure you do not miss this!:
 
-![Screenshot 5](screenshots/notice.png)
+![Alt Notice](notice.png)
 
 ## Contributions
 
