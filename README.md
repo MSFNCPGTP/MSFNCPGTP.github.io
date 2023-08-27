@@ -17,8 +17,10 @@ Here is some Fun fact:
 ## Features
 
 - Feature 1: [What is Declaration?]
+![Alt Sec1](sec1.png)
 - Feature 2: [How does it affects you?]
 - Feature 3: [NCPG clarifies!]
+![Alt Sec1](sec1.png)
 
 ## Getting Started
 
@@ -47,11 +49,11 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/yourusername/yourproject/issues) or [contact us](mailto:contact@example.com).
 
-## Donations
+## NCPG Main Website
 
-If you find this project helpful, consider supporting us by clicking the button below:
+If you find this site helpful, consider visiting us by clicking the button below:
 
-[![Support Us](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.buymeacoffee.com/yourusername)
+[![Know Us Better](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.ncpg.org.sg)
 
 ## License
 
