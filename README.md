@@ -25,7 +25,7 @@ Here is some Fun fact:
   
 <img src="sec1.png" alt="Image" width="500" />
 
-- Feature 2: [How does it affect you?]
+- How does it affect you?
 
 <img src="sec3.png" alt="Image" width="500" />
 
