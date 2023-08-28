@@ -1,6 +1,6 @@
 
 # NCPG Microsite
-<img src="NCPG.png" alt="Image" width="500" />
+<img src="NCPG.png" alt="Image" width="100" />
 
 NCPG addresses porblem gambling and promotes responsible gambling.
 
