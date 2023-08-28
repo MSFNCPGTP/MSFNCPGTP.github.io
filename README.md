@@ -17,7 +17,7 @@ Here is some Fun fact:
 
 ![Alt comic](comicstrip2.png)
 
-<a href="ncpg.godaddysites.com" style="display: padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border: none; border-radius: 5px;">Next</a>
+## <a href="ncpg.godaddysites.com" style="display: padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border: none; border-radius: 5px;">Next</a>
 
 ## Features
 
