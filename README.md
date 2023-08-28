@@ -29,9 +29,9 @@ Here is some Fun fact:
 
 ![Alt Sec2](sec3.png)
 
-- Feature 3: [NCPG clarifies!]
+- NCPG clarifies!
 
-![Alt Sec3](sec2.png)
+<img src="sec2.png" alt="Image" width="500" />
 
 ## Getting Started
 
