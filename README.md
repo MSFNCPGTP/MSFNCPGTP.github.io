@@ -21,7 +21,7 @@ Here is some Fun fact:
 
 ## Features
 
-- Feature 1: [What is Declaration?]
+- What is Declaration?
   
 <img src="sec1.png" alt="Image" width="500" />
 
