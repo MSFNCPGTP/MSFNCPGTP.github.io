@@ -23,7 +23,7 @@ Here is some Fun fact:
 
 - Feature 1: [What is Declaration?]
   
-![Alt Sec1](sec1.png)
+<img src="sec1.png" alt="Image" width="200" />
 
 - Feature 2: [How does it affect you?]
 
