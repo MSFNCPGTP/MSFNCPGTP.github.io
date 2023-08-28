@@ -23,7 +23,7 @@ Here is some Fun fact:
 
 - Feature 1: [What is Declaration?]
   
-<img src="sec1.png" alt="Image" width="200" />
+<img src="sec1.png" alt="Image" width="500" />
 
 - Feature 2: [How does it affect you?]
 
