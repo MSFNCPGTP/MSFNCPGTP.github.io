@@ -17,7 +17,7 @@ Here is some Fun fact:
 
 ![Alt comic](comicstrip2.png)
 
-[![Interactive Button](ncpg.godaddysites.com)](ncpg.godaddysites.com)
+[![Interactive Button](index.html)](index.html)
 
 ## Features
 
