@@ -1,21 +1,3 @@
-# NCPG Microsite
-
-![Alt NCPG Logo](NCPG.png)
-
-NCPG addresses porblem gambling and promotes responsible gambling.
-
-## Description
-
-This site aims to solve your confusion by explaining why you are in this situation. It's designed to be unique, fun and informative.
-
-![Alt comic](comicstrip.png)
-
-## Declaration - The First Phase
-
-Here is some Fun fact:
-
-![Alt comic](comicstrip2.png)
-
 ## Features
 
 - Feature 1: [What is Declaration?]
