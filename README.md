@@ -1,7 +1,8 @@
 # NCPG Microsite
 
 ![Alt NCPG Logo](NCPG.png)
-Welcome to NCPG awesome Microsite! This site does something really cool and amazing.
+
+NCPG addresses porblem gambling and promotes responsible gambling.
 
 ## Description
 
