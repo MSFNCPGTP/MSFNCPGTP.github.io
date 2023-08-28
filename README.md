@@ -1,12 +1,12 @@
 # NCPG Microsite
 
-![Alt NCPG Logo](NCPG.png)
+              ![Alt NCPG Logo](NCPG.png)
 
 NCPG addresses porblem gambling and promotes responsible gambling.
 
 ## Description
 
-This site aims to solve [your confusion] by [explaining why you are in this situation]. It's built using [Github], and it's designed to [unique, fun and informative].
+This site aims to solve your confusion by explaining why you are in this situation. It's designed to be unique, fun and informative.
 
 ![Alt comic](comicstrip.png)
 
