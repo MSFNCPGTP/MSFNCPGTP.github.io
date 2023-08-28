@@ -27,7 +27,7 @@ Here is some Fun fact:
 
 - Feature 2: [How does it affect you?]
 
-![Alt Sec2](sec3.png)
+<img src="sec3.png" alt="Image" width="500" />
 
 - NCPG clarifies!
 
